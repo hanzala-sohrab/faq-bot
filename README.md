@@ -1,5 +1,5 @@
 # rasa-server
-Server to perform NLU and NLP on incoming WhatsApp messages 
+Server to perform NLU and NLP on incoming WhatsApp messages
 
 ## Steps to run locally
 
