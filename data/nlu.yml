@@ -89,3 +89,21 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+
+- intent: faq/ask_name
+  examples: |
+    - What is the full name of BIT Sindri?
+    - College name?
+    - What is the name of the college?
+
+- intent: faq/ask_director
+  examples: |
+    - Who is the director of BIT Sindri?
+    - Director name?
+    - Deen name?
+
+- intent: faq/ask_branches
+  examples: |
+    - What are the branches in BIT Sindri?
+    - Branches?
+    - Streams?

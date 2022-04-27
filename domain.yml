@@ -8,6 +8,7 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - faq
 
 responses:
   utter_greet:
@@ -28,6 +29,17 @@ responses:
 
   utter_iamabot:
   - text: "I am a bot, powered by Rasa."
+
+  utter_faq/ask_name:
+  - text: Birsa Institute of Technology, Sindri
+    # image: "https://i.imgur.com/vwv7aHN.png"
+  - text: "Birsa Institute of Technology, Sindri, Dhanbad Rd, Sindri, Jharkhand 828123"
+
+  utter_faq/ask_director:
+  - text: "Dr. D. K. Singh"
+
+  utter_faq/ask_branches:
+  - text: "Mechanical\nElectrical\nProduction\nMetallurgy\nECE\nMining\nCivil\nChemical\nIT\nCSE"
 
 session_config:
   session_expiration_time: 60
