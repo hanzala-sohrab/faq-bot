@@ -1,6 +1,10 @@
 # rasa-server
 Server to perform NLU and NLP on incoming WhatsApp messages
 
+## Tools & Technologies used
+1. Python 3.8.13
+2. Rasa
+
 ## Steps to run locally
 1. Clone this repo
     ```sh
