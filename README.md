@@ -30,6 +30,16 @@ Server to perform NLU and NLP on incoming WhatsApp messages
     ```sh
     rasa run
     ```
+
+## Demo
+- **Getting college info like name, address, branches, placement stats, etc.**
+
+
+https://user-images.githubusercontent.com/40603380/165647415-a4e98da9-fd54-4c32-b8b9-f953646111ab.mp4
+
+
+
+
 ## Rasa architecture
 
 ![image](https://user-images.githubusercontent.com/40603380/165640494-783b690b-cc9e-4e8e-b6ce-d303e0e31410.png)
