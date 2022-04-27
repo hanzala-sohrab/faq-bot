@@ -95,15 +95,95 @@ nlu:
     - What is the full name of BIT Sindri?
     - College name?
     - What is the name of the college?
-
-- intent: faq/ask_director
-  examples: |
-    - Who is the director of BIT Sindri?
-    - Director name?
-    - Deen name?
+    - Location
+    - Address
 
 - intent: faq/ask_branches
   examples: |
     - What are the branches in BIT Sindri?
     - Branches?
     - Streams?
+
+# Placements related FAQs
+- intent: faq/ask_placement_stats
+  examples: |
+    - placement scenario
+    - placement stats
+    - how is the placement scenario in the college?
+    - How good are placements in BIT Sindri
+
+# Faculty related FAQs
+- intent: faq/ask_director
+  examples: |
+    - Who is the director of BIT Sindri?
+    - Director name?
+    - Deen name?
+    - D.K Singh
+
+- intent: faq/ask_hod_it
+  examples: |
+    - Who is the HOD of CSE and IT department?
+    - Who is the HOD of CSE and IT dept?
+    - "Dr. S C Dutta"
+  
+- intent: faq/ask_prof1
+  examples: |
+    - "Mr. Dinesh Kr Prabhakar"
+    - Who is Mr. Dinesh Kr Prabhakar?
+
+- intent: faq/ask_prof2
+  examples: |
+    - "Mrs. Parbati Mahanto"
+    - Who is Mrs. Parbati Mahanto?
+
+- intent: faq/ask_prof3
+  examples: |
+    - "Mr. Raghunandan Kumar"
+    - Who is Mr. Raghunandan Kumar?
+
+- intent: faq/ask_prof4
+  examples: |
+    - Mr. Rajiv Ranjan
+    - Who is Mr. Rajiv Ranjan?
+
+- intent: faq/ask_prof5
+  examples: |
+    - Mr.  Vijay Kumar Besra
+    - Who is Mr.  Vijay Kumar Besra?
+
+- intent: faq/ask_prof6
+  examples: |
+    - Mr. Md Akram Khan
+    - Who is Mr. Md Akram Khan?
+
+- intent: faq/ask_prof7
+  examples: |
+    - Mr. Anantha Raj P
+    - Who is Mr. Anantha Raj P?
+
+- intent: faq/ask_prof8
+  examples: |
+    - Mr. Shesh Narayan Sahu
+    - Who is Mr. Shesh Narayan Sahu?
+
+- intent: faq/ask_prof9
+  examples: |
+    -	Mr. Panjeet Kumar Lenka
+    - Who is Mr. Panjeet Kumar Lenka?
+
+- intent: faq/ask_prof10
+  examples: |
+    -	Mr. Sachin Kumar Agrawal
+    - Who is Mr. Sachin Kumar Agrawal?
+
+- intent: faq/ask_prof11
+  examples: |
+    -	Mrs. Rupali Kumari
+    - Who is Mrs. Rupali Kumari?
+
+- intent: faq/ask_prof12
+  examples: |
+    -	Dr. Pooja Sharma
+    - Puja ma'am
+    - Who is Dr. Pooja Sharma?
+

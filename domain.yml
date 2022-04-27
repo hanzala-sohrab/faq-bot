@@ -31,15 +31,58 @@ responses:
   - text: "I am a bot, powered by Rasa."
 
   utter_faq/ask_name:
-  - text: Birsa Institute of Technology, Sindri
-    # image: "https://i.imgur.com/vwv7aHN.png"
   - text: "Birsa Institute of Technology, Sindri, Dhanbad Rd, Sindri, Jharkhand 828123"
-
-  utter_faq/ask_director:
-  - text: "Dr. D. K. Singh"
 
   utter_faq/ask_branches:
   - text: "Mechanical\nElectrical\nProduction\nMetallurgy\nECE\nMining\nCivil\nChemical\nIT\nCSE"
+
+  # Placement
+  utter_faq/ask_placement_stats:
+  - text: "Placement report 2020-21 (batch of 2k17-21)\nhttps://bitsarjana.com/2021/08/18/placement-report-2k17/\nPlacement report 2018-19 (batch of 2k15-19)\nhttps://bitsarjana.com/2019/06/06/bit-sindri-placement-2019/"
+
+  # Faculty
+  utter_faq/ask_director:
+  - text: "*Prof. (Dr.) D.K Singh*\nDirector\nBIT Sindri\nP.O. Sindri Institute, Sindri\nDhanbad, Jharkhand - 828123\nTel: +91-326-2350495, +91-326-2350496\nFax: +91-326-2350729\nEmail: director@bitsindri.ac.in"
+
+  utter_faq/ask_hod_it:
+  - text: "*Dr. S C Dutta*\nAssociate Professor & HOD\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9431379679\nEmail : scdutta@bitsindri.ac.in , hod.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof1:
+  - text: "*Mr. Dinesh Kr Prabhakar*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9525052962\nEmail : prabhakar.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof2:
+  - text: "*Mrs. Parbati Mahanto*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9470978517\nEmail : pmahanto.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof3:
+  - text: "*Mr. Raghunandan Kumar*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9031823309\nEmail : raghunandan.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof4:
+  - text: "*Mr. Rajiv Ranjan*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9507420028\nEmail : rajivranjan.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof5:
+  - text: "*Mr.  Vijay Kumar Besra*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9934147283\nEmail : vijay.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof6:
+  - text: "*Mr. Md Akram Khan*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-7978467209\nEmail : akram.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof7:
+  - text: "*Mr. Anantha Raj P*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9442403533\nEmail : anantharajp.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof8:
+  - text: "*Mr. Shesh Narayan Sahu*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-8463089969\nEmail : shesh.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof9:
+  - text: "*Mr. Panjeet Kumar Lenka*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-8436372596\nEmail : panjeet.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof10:
+  - text: "*Mr. Sachin Kumar Agrawal*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9301033660\nEmail : sachin.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof11:
+  - text: "*Mrs. Rupali Kumari*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-7080190421\nEmail : rupali.it@bitsindri.ac.in"
+
+  utter_faq/ask_prof12:
+  - text: "*Dr. Pooja Sharma*\nAssistant Professor\nDepartment of Information Technology\nBIT Sindri, P.O.: Sindri Institute, Sindri\nDist: Dhanbad, Jharkhand, India PIN: 828123\nPhone: +91-9706680581\nEmail : poojasharma.it@bitsindri.ac.in"
+
 
 session_config:
   session_expiration_time: 60
