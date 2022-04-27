@@ -34,10 +34,11 @@ Server to perform NLU and NLP on incoming WhatsApp messages
 ## Demo
 - **Getting college info like name, address, branches, placement stats, etc.**
 
-
 https://user-images.githubusercontent.com/40603380/165647415-a4e98da9-fd54-4c32-b8b9-f953646111ab.mp4
 
+- **Getting faculty information**
 
+https://user-images.githubusercontent.com/40603380/165648106-a05ae0cb-7499-4401-b1b8-e767cdc7d45a.mp4
 
 
 ## Rasa architecture
