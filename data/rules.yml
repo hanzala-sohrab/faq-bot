@@ -16,3 +16,8 @@ rules:
   steps:
   - intent: faq
   - action: utter_faq
+
+- rule: Greet anytime the user sends a greeting
+  steps:
+  - intent: greet
+  - action: utter_greet
