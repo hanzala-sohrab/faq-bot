@@ -1,4 +1,4 @@
-# rasa-server
+# faq-bot
 Server to perform NLU and NLP on incoming WhatsApp messages
 
 ## Tools & Technologies used
@@ -8,11 +8,11 @@ Server to perform NLU and NLP on incoming WhatsApp messages
 ## Steps to run locally
 1. Clone this repo
     ```sh
-    git clone https://github.com/hanzala-sohrab/rasa-server.git
+    git clone https://github.com/hanzala-sohrab/faq-bot.git
     ```
 2. Change directory
     ```sh
-    cd rasa-server
+    cd faq-bot
     ```
 3. Create a virtual environment and activate it
     ```sh
